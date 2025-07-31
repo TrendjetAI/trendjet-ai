@@ -1,2 +1,3 @@
 # TrendJet AI
-This is the MVP starter for the TrendJet AI platform.
+
+Deployed with ❤️ via Vercel.
