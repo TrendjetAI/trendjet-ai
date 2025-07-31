@@ -1,9 +1,18 @@
+// pages/index.js
+import Head from 'next/head'
+import '../styles/globals.css'
+
 export default function Home() {
   return (
-    <div style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
-      <h1>🚀 Welcome to TrendJet AI</h1>
-      <p>Your all-in-one AI-powered dropshipping platform is coming alive.</p>
-      <p>Stay tuned for VIP features, automation, and smart commerce tools.</p>
+    <div>
+      <Head>
+        <title>TrendJet AI</title>
+        <meta name="description" content="The Tesla of AI Dropshipping" />
+      </Head>
+      <main>
+        <h1>🚀 Welcome to TrendJet AI</h1>
+        <p>This is your AI-powered dropshipping empire starter.</p>
+      </main>
     </div>
-  );
+  )
 }
