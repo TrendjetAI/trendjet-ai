@@ -1,2 +1,2 @@
 # TrendJet AI
-The Tesla of AI Dropshipping.
+This is the MVP starter for the TrendJet AI platform.
