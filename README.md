@@ -1,3 +1,3 @@
 # TrendJet AI
 
-Deployed with ❤️ via Vercel.
+Deployment-ready starter kit.
